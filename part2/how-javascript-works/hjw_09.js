@@ -5,6 +5,5 @@ function hello(x){
         console.log(a,b,x);
     }
 }
-
 const ans = hello("arg");
 ans();
