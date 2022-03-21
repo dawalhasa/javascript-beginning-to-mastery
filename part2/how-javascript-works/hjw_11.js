@@ -9,7 +9,12 @@ function func(){
         }
     }
 }
-
 const myFunc = func();
 myFunc();
 myFunc();
+
+
+
+
+
+
